@@ -205,7 +205,7 @@ CMakeFiles/myapp.dir/main.c.obj: /opt/pico-sdk/src/rp2_common/hardware_timer/inc
 CMakeFiles/myapp.dir/main.c.obj: /opt/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h
 CMakeFiles/myapp.dir/main.c.obj: /opt/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
 CMakeFiles/myapp.dir/main.c.obj: /opt/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
-CMakeFiles/myapp.dir/main.c.obj: /opt/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
+CMakeFiles/myapp.dir/main.c.obj: /opt/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
 CMakeFiles/myapp.dir/main.c.obj: generated/pico_base/pico/config_autogen.h
 CMakeFiles/myapp.dir/main.c.obj: generated/pico_base/pico/version.h
 

@@ -5,7 +5,7 @@ int main() {
     stdio_init_all();
 
     for(;;) {
-        printf("Hello World!\n");
-        sleep_ms(500);
+        printf("%.2f, %.2f, %.2f\n", -0.12, -6.20, 7.90);
+        sleep_ms(100); // 10Hz
     }
 }

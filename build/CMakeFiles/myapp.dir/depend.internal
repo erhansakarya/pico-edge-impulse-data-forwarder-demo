@@ -206,7 +206,7 @@ CMakeFiles/myapp.dir/main.c.obj
  /opt/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h
  /opt/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /opt/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
- /opt/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
+ /opt/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
  generated/pico_base/pico/config_autogen.h
  generated/pico_base/pico/version.h
 CMakeFiles/myapp.dir/opt/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
